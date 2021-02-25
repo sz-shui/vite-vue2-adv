@@ -1,0 +1,17 @@
+{
+  "name": "vite-vue2-adv",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.0.3",
+    "vite-plugin-vue2": "^1.2.1"
+  },
+  "dependencies": {
+    "ant-design-vue": "^1.7.3",
+    "vue": "^2.6.12"
+  }
+}
